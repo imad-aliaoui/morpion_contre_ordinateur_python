@@ -2,6 +2,9 @@
 
 Implémentation du jeu de Morpion (Tic-Tac-Toe) en Python avec une interface graphique créée à l'aide de Tkinter. Le joueur affronte l'ordinateur, qui prend ses décisions en fonction du niveau de difficulté choisi.
 
+## Inspiration
+Je me suis inspiré de ce tutoriel pour réaliser mon programme : https://robertheaton.com/2018/10/09/programming-projects-for-advanced-beginners-3-a/
+
 ## Fonctionnalités
 
   - Interface graphique : Utilisation de Tkinter pour une expérience utilisateur fluide.
